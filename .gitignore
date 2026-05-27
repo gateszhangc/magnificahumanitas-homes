@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Build / cache
+node_modules/
+.cache/
+dist/
+build/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
